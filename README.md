@@ -7,7 +7,9 @@ The Weather PWA App is a modern Progressive Web Application (PWA) that provides 
 
 ## Live Demo
 
-You can view the live demo of the app [here](https://monumental-cobbler-9643f8.netlify.app/).
+You can view the live demo of the app [WeatherApp](https://monumental-cobbler-9643f8.netlify.app/).
+
+ linked  - https://monumental-cobbler-9643f8.netlify.app/
 
 ## Features
 
